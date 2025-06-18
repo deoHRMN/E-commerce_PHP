@@ -1,7 +1,7 @@
 Method 1: 
 
-  visit the site: http://estorephp.infinityfreeapp.com/estorephp
-  For admins, visit http://estorephp.infinityfreeapp.com/estorephp/admin
+  visit the site: http://estorephp.infinityfreeapp.com
+  For admins, visit http://estorephp.infinityfreeapp.com/admin
   Login credentials for both customer and admin
       Email: username@example.com
       Password: Password!
